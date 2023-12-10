@@ -1,5 +1,5 @@
 #!/bin/bash
-
+/comment/
 VERSION=""
 
 # get parameters
